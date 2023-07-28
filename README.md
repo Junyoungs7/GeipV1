@@ -20,10 +20,11 @@
 - Devops stack
     - AWS EC2, Docker
 
-## ERD
+## 구상도
 ![075e8ffd8cf61a0f](https://github.com/lay423/geipV1/assets/41409287/a7a1d188-9433-4f04-a990-53d299968f81)
 
 
+## 이슈 및 회의 내용
 
 ### 11.12
 - 내전 전적 기능 구현 완료
